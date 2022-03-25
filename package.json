@@ -27,7 +27,7 @@
     "prettier": "1.19.1"
   },
   "dependencies": {
-    "electron": "^8.2.1",
+    "electron": "^13.6.6",
     "fluent-ffmpeg": "^2.1.2"
   }
 }
